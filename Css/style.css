@@ -12,7 +12,7 @@ body{
     height: 100vh;
     display: grid;
     place-items: center;
-    background-color: rgb(123, 123, 123);
+    background-color: rgb(54, 0, 180);
     /* background: linear-gradient(to right, red, green); */
 
 }
@@ -23,8 +23,8 @@ body{
  display: grid;
  grid-template-columns: repeat(8,1fr);
  grid-template-rows: repeat(8,1fr);
- background-color: aliceblue;
- border: dotted thin black;
+ background-color: rgb(255, 255, 255);
+ border: dotted thin rgb(0, 0, 0);
 
 }
 
